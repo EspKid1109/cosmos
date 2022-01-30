@@ -1,0 +1,1 @@
+This code allows a user to time various data structures and will return what performs best in different categories such as input and access time.
